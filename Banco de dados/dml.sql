@@ -1,5 +1,7 @@
 use vilaoDB;
 
+select * from tb_vilao;
+
 insert into tb_vilao (nm_vilao, ds_maldades, bt_super_poder )
 	  values('Thanos','Deisimar', true );
       
